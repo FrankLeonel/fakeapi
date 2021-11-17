@@ -33,47 +33,11 @@
     {
       "id": 1,
       "name": "Aldeia War",
-      "buildings": {
-        "main": "12",
-        "barracks": "5",
-        "stable": "3",
-        "garage": "0",
-        "snob": "0",
-        "smith": "5",
-        "place": "1",
-        "statue": "1",
-        "market": "5",
-        "wood": "11",
-        "stone": "11",
-        "iron": "10",
-        "farm": "8",
-        "storage": "7",
-        "hide": "6",
-        "wall": "5"
-      },
       "user": 1
-    }
+    },
     {
       "id": 2,
       "name": "Aldeia War",
-      "buildings": {
-        "main": "12",
-        "barracks": "5",
-        "stable": "3",
-        "garage": "2",
-        "snob": "1",
-        "smith": "5",
-        "place": "1",
-        "statue": "1",
-        "market": "5",
-        "wood": "11",
-        "stone": "11",
-        "iron": "10",
-        "farm": "8",
-        "storage": "7",
-        "hide": "6",
-        "wall": "5"
-      },
       "user": 2
     }
   ],
