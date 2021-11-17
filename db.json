@@ -1,18 +1,80 @@
 {
-  "cursos": [
-    { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
-    { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
-    { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
-    { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
+  "users": [
+    {
+      "id": 1,
+      "name": "Lionel",
+      "surname": "Messi",
+      "username": "lmessi",
+      "password": "messi123"
+    },
+    {
+      "id": 2,
+      "name": "João",
+      "surname": "Silva",
+      "username": "joao",
+      "password": "1234567"
+    },
+    {
+      "id": 3,
+      "name": "Felipe",
+      "surname": "Oliveira",
+      "username": "felipe",
+      "password": "felipe"
+    },
+    {
+      "id": 4,
+      "name": "Francisco",
+      "surname": "Gomes",
+      "username": "chico",
+      "password": "chico123"
+    }
   ],
-  "alunos": [
-    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+  "villages": [
+    {
+      "id": 1,
+      "name": "Aldeia War",
+      "buildings": {
+        "main": "12",
+        "barracks": "5",
+        "stable": "3",
+        "garage": "0",
+        "snob": "0",
+        "smith": "5",
+        "place": "1",
+        "statue": "1",
+        "market": "5",
+        "wood": "11",
+        "stone": "11",
+        "iron": "10",
+        "farm": "8",
+        "storage": "7",
+        "hide": "6",
+        "wall": "5"
+      },
+      "user": 1
+    }
+    {
+      "id": 2,
+      "name": "Aldeia War",
+      "buildings": {
+        "main": "12",
+        "barracks": "5",
+        "stable": "3",
+        "garage": "2",
+        "snob": "1",
+        "smith": "5",
+        "place": "1",
+        "statue": "1",
+        "market": "5",
+        "wood": "11",
+        "stone": "11",
+        "iron": "10",
+        "farm": "8",
+        "storage": "7",
+        "hide": "6",
+        "wall": "5"
+      },
+      "user": 2
+    }
   ],
-  "empresa": {
-    "nome": "Code Prestige"
-  }
 }
