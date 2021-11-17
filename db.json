@@ -28,17 +28,5 @@
       "username": "chico",
       "password": "chico123"
     }
-  ],
-  "villages": [
-    {
-      "id": 1,
-      "name": "Aldeia War",
-      "user": 1
-    },
-    {
-      "id": 2,
-      "name": "Aldeia War",
-      "user": 2
-    }
-  ],
+  ]
 }
