@@ -29,4 +29,79 @@
       "password": "chico123"
     }
   ],
+  "villages": [
+    {
+      "id": 1,
+      "name": "Aldeia de War",
+      "display_name": "Aldeia de War",
+      "buildings": {
+        "main": "12",
+        "barracks": "5",
+        "stable": "3",
+        "garage": "0",
+        "snob": "0",
+        "smith": "5",
+        "place": "1",
+        "statue": "1",
+        "market": "5",
+        "wood": "11",
+        "stone": "11",
+        "iron": "10",
+        "farm": "8",
+        "storage": "7",
+        "hide": "6",
+        "wall": "5"
+      },
+     "user_id": 1
+    },
+    {
+      "id": 1,
+      "name": "Aldeia de War2",
+      "display_name": "Aldeia de War2",
+      "buildings": {
+        "main": "12",
+        "barracks": "5",
+        "stable": "3",
+        "garage": "1",
+        "snob": "1",
+        "smith": "5",
+        "place": "1",
+        "statue": "1",
+        "market": "5",
+        "wood": "11",
+        "stone": "11",
+        "iron": "10",
+        "farm": "8",
+        "storage": "7",
+        "hide": "6",
+        "wall": "5"
+      },
+     "user_id": 2
+    }    
+  ],
+  "units": [
+    {
+      {
+        "name": "spear",
+        "qtde": 2,
+      },
+      {
+        "name": "sword",
+        "qtde": 4,
+      },
+      {
+        "name": "axe",
+        "qtde": 5,
+      },
+      {
+        "name": "archer",
+        "qtde": 8,
+       },
+       {
+        "name": "spear",
+        "qtde": 9,
+      },
+      "user_id": 1
+    }
+  ]
 }
