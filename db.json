@@ -34,6 +34,7 @@
       "id": 1,
       "name": "Aldeia de War",
       "display_name": "Aldeia de War",
+      "user_id": 1,
       "buildings": {
         "main": "12",
         "barracks": "5",
@@ -51,13 +52,13 @@
         "storage": "7",
         "hide": "6",
         "wall": "5"
-      },
-     "user_id": 1
+      }
     },
     {
       "id": 1,
       "name": "Aldeia de War2",
       "display_name": "Aldeia de War2",
+      "user_id": 2,
       "buildings": {
         "main": "12",
         "barracks": "5",
@@ -75,8 +76,7 @@
         "storage": "7",
         "hide": "6",
         "wall": "5"
-      },
-     "user_id": 2
+      }
     }    
   ]
 }
