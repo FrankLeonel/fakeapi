@@ -78,30 +78,5 @@
       },
      "user_id": 2
     }    
-  ],
-  "units": [
-    {
-      {
-        "name": "spear",
-        "qtde": 2,
-      },
-      {
-        "name": "sword",
-        "qtde": 4,
-      },
-      {
-        "name": "axe",
-        "qtde": 5,
-      },
-      {
-        "name": "archer",
-        "qtde": 8,
-       },
-       {
-        "name": "spear",
-        "qtde": 9,
-      },
-      "user_id": 1
-    }
   ]
 }
