@@ -34,103 +34,30 @@
       "id": 1,
       "name": "Aldeia de War",
       "display_name": "Aldeia de War",
-      "user_id": 1,
-      "buildings": {
-        "main": "12",
-        "barracks": "5",
-        "stable": "3",
-        "garage": "0",
-        "snob": "0",
-        "smith": "5",
-        "place": "1",
-        "statue": "1",
-        "market": "5",
-        "wood": "11",
-        "stone": "11",
-        "iron": "10",
-        "farm": "8",
-        "storage": "7",
-        "hide": "6",
-        "wall": "5"
-      }
+      "user_id": 1
     },
     {
       "id": 2,
       "name": "Aldeia de War2",
       "display_name": "Aldeia de War2",
-      "user_id": 2,
-      "buildings": {
-        "main": "12",
-        "barracks": "5",
-        "stable": "3",
-        "garage": "1",
-        "snob": "1",
-        "smith": "5",
-        "place": "1",
-        "statue": "1",
-        "market": "5",
-        "wood": "11",
-        "stone": "11",
-        "iron": "10",
-        "farm": "8",
-        "storage": "7",
-        "hide": "6",
-        "wall": "5"
-      }
+      "user_id": 2
     },   
     {
       "id": 3,
       "name": "Aldeia de War3",
       "display_name": "Aldeia de War3",
-      "user_id": 3,
-      "buildings": {
-        "main": "12",
-        "barracks": "5",
-        "stable": "3",
-        "garage": "1",
-        "snob": "1",
-        "smith": "5",
-        "place": "1",
-        "statue": "1",
-        "market": "5",
-        "wood": "13",
-        "stone": "13",
-        "iron": "10",
-        "farm": "8",
-        "storage": "7",
-        "hide": "6",
-        "wall": "5"
-      }
+      "user_id": 3
     },   
     {
       "id": 4,
       "name": "Aldeia de War4",
       "display_name": "Aldeia de War4",
-      "user_id": 4,
-      "buildings": {
-        "main": "12",
-        "barracks": "5",
-        "stable": "3",
-        "garage": "1",
-        "snob": "1",
-        "smith": "5",
-        "place": "1",
-        "statue": "1",
-        "market": "5",
-        "wood": "11",
-        "stone": "11",
-        "iron": "12",
-        "farm": "8",
-        "storage": "20",
-        "hide": "10",
-        "wall": "10"
-      }
-    }   
+      "user_id": 4 
   ],
   "buildings": [
     {
       "village_id": 1,
-      [
+      "edficios": [
         {
           "name_ed": "main",
           "level": "12"
