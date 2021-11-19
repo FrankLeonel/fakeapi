@@ -58,55 +58,79 @@
   "buildings": [
     {
       "village_id": 1,
-      "buildings_list": [
-        "main": {
-          "name_ed": "main",
-          "level": "12"
-        },
-        "barracks": {
-          "name_ed": "barracks",
-          "level": "5"
-        }
-      ]
+      "main": "12",
+      "barracks": "5",
+      "stable": "3",
+      "garage": "0",
+      "snob": "0",
+      "smith": "5",
+      "place": "1",
+      "statue": "1",
+      "market": "5",
+      "wood": "11",
+      "stone": "11",
+      "iron": "10",
+      "farm": "8",
+      "storage": "7",
+      "hide": "6",
+      "wall": "5" 
     },
     {
       "village_id": 2,
-      "edficios": [
-        "main": {
-          "name_ed": "main",
-          "level": "14"
-        },
-        "barracks": {
-          "name_ed": "barracks",
-          "level": "10"
-        }
-      ]
-    }
+      "main": "12",
+      "barracks": "5",
+      "stable": "3",
+      "garage": "0",
+      "snob": "0",
+      "smith": "5",
+      "place": "1",
+      "statue": "1",
+      "market": "5",
+      "wood": "11",
+      "stone": "11",
+      "iron": "10",
+      "farm": "16",
+      "storage": "7",
+      "hide": "6",
+      "wall": "5" 
+    },
     {
       "village_id": 3,
-      "edficios": [
-        "main": {
-          "name_ed": "main",
-          "level": "15"
-        },
-        "barracks": {
-          "name_ed": "barracks",
-          "level": "8"
-        }
-      ]
+      "main": "12",
+      "barracks": "5",
+      "stable": "3",
+      "garage": "0",
+      "snob": "0",
+      "smith": "5",
+      "place": "1",
+      "statue": "1",
+      "market": "20",
+      "wood": "11",
+      "stone": "11",
+      "iron": "10",
+      "farm": "16",
+      "storage": "7",
+      "hide": "6",
+      "wall": "5" 
     },
     {
       "village_id": 4,
-      "edficios": [
-        "main": {
-          "name_ed": "main",
-          "level": "18"
-        },
-        "barracks": {
-          "name_ed": "barracks",
-          "level": "16"
-        }
-      ]
+      "main": "20",
+      "barracks": "5",
+      "stable": "3",
+      "garage": "0",
+      "snob": "0",
+      "smith": "5",
+      "place": "1",
+      "statue": "1",
+      "market": "5",
+      "wood": "11",
+      "stone": "11",
+      "iron": "10",
+      "farm": "16",
+      "storage": "7",
+      "hide": "6",
+      "wall": "5" 
     }
   ]
 }
