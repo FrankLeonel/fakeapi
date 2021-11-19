@@ -53,59 +53,5 @@
       "name": "Aldeia de War4",
       "display_name": "Aldeia de War4",
       "user_id": 4 
-  ],
-  "buildings": [
-    {
-      "village_id": 1,
-      "edficios": [
-        {
-          "name_ed": "main",
-          "level": "12"
-        },
-        {
-          "name_ed": "barracks",
-          "level": "5"
-        }
-      ]
-    },
-    {
-      "village_id": 2,
-      "edficios": [
-        {
-          "name_ed": "main",
-          "level": "14"
-        },
-        {
-          "name_ed": "barracks",
-          "level": "10"
-        }
-      ]
-    }
-    {
-      "village_id": 3,
-      "edficios": [
-        {
-          "name_ed": "main",
-          "level": "15"
-        },
-        {
-          "name_ed": "barracks",
-          "level": "8"
-        }
-      ]
-    },
-    {
-      "village_id": 4,
-      "edficios": [
-        {
-          "name_ed": "main",
-          "level": "18"
-        },
-        {
-          "name_ed": "barracks",
-          "level": "16"
-        }
-      ]
-    }
   ]
 }
