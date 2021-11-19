@@ -36,70 +36,22 @@
       "display_name": "Aldeia de War",
       "user_id": 1,
       "buildings": {
-        "main": {
-          "name_ed": "main",
-          "level": "12"
-        },
-        "barracks": {
-          "name_ed": "barracks",
-          "level": "5"
-        },
-        "stable": {
-          "name_ed": "stable",
-          "level": "3"
-        },
-        "garage": {
-          "name_ed": "garage",
-          "level": "0"
-        },
-        "snob": {
-          "name_ed": "snob",
-          "level": "0"
-        },
-        "smith": {
-          "name_ed": "smith",
-          "level": "5"
-        },
-        "place": {
-          "name_ed": "place",
-          "level": "1"
-        },
-        "statue": {
-          "name_ed": "statue",
-          "level": "1"
-        },
-        "market": {
-          "name_ed": "market",
-          "level": "5"
-        },
-        "wood": {
-          "name_ed": "wood",
-          "level": "11"
-        },
-        "stone": {
-          "name_ed": "stone",
-          "level": "11"
-        },
-        "iron": {
-          "name_ed": "iron",
-          "level": "10"
-        },
-        "farm": {
-          "name_ed": "farm",
-          "level": "8"
-        },
-        "storage": {
-          "name_ed": "storage",
-          "level": "7"
-        },
-        "hide": {
-          "name_ed": "hide",
-          "level": "6"
-        },
-        "wall": {
-          "name_ed": "wall",
-          "level": "5"
-        }
+        "main": "12",
+        "barracks": "5",
+        "stable": "3",
+        "garage": "0",
+        "snob": "0",
+        "smith": "5",
+        "place": "1",
+        "statue": "1",
+        "market": "5",
+        "wood": "11",
+        "stone": "11",
+        "iron": "10",
+        "farm": "8",
+        "storage": "7",
+        "hide": "6",
+        "wall": "5"
       }
     },
     {
@@ -108,70 +60,22 @@
       "display_name": "Aldeia de War2",
       "user_id": 2,
       "buildings": {
-        "main": {
-          "name_ed": "main",
-          "level": "12"
-        },
-        "barracks": {
-          "name_ed": "barracks",
-          "level": "5"
-        },
-        "stable": {
-          "name_ed": "stable",
-          "level": "3"
-        },
-        "garage": {
-          "name_ed": "garage",
-          "level": "0"
-        },
-        "snob": {
-          "name_ed": "snob",
-          "level": "0"
-        },
-        "smith": {
-          "name_ed": "smith",
-          "level": "5"
-        },
-        "place": {
-          "name_ed": "place",
-          "level": "1"
-        },
-        "statue": {
-          "name_ed": "statue",
-          "level": "1"
-        },
-        "market": {
-          "name_ed": "market",
-          "level": "5"
-        },
-        "wood": {
-          "name_ed": "wood",
-          "level": "11"
-        },
-        "stone": {
-          "name_ed": "stone",
-          "level": "11"
-        },
-        "iron": {
-          "name_ed": "iron",
-          "level": "10"
-        },
-        "farm": {
-          "name_ed": "farm",
-          "level": "8"
-        },
-        "storage": {
-          "name_ed": "storage",
-          "level": "7"
-        },
-        "hide": {
-          "name_ed": "hide",
-          "level": "6"
-        },
-        "wall": {
-          "name_ed": "wall",
-          "level": "5"
-        }
+        "main": "12",
+        "barracks": "5",
+        "stable": "3",
+        "garage": "1",
+        "snob": "1",
+        "smith": "5",
+        "place": "1",
+        "statue": "1",
+        "market": "5",
+        "wood": "11",
+        "stone": "11",
+        "iron": "10",
+        "farm": "8",
+        "storage": "7",
+        "hide": "6",
+        "wall": "5"
       }
     },
     {
@@ -180,70 +84,22 @@
       "display_name": "Aldeia de War3",
       "user_id": 3,
       "buildings": {
-        "main": {
-          "name_ed": "main",
-          "level": "12"
-        },
-        "barracks": {
-          "name_ed": "barracks",
-          "level": "5"
-        },
-        "stable": {
-          "name_ed": "stable",
-          "level": "3"
-        },
-        "garage": {
-          "name_ed": "garage",
-          "level": "0"
-        },
-        "snob": {
-          "name_ed": "snob",
-          "level": "0"
-        },
-        "smith": {
-          "name_ed": "smith",
-          "level": "5"
-        },
-        "place": {
-          "name_ed": "place",
-          "level": "1"
-        },
-        "statue": {
-          "name_ed": "statue",
-          "level": "1"
-        },
-        "market": {
-          "name_ed": "market",
-          "level": "5"
-        },
-        "wood": {
-          "name_ed": "wood",
-          "level": "11"
-        },
-        "stone": {
-          "name_ed": "stone",
-          "level": "11"
-        },
-        "iron": {
-          "name_ed": "iron",
-          "level": "10"
-        },
-        "farm": {
-          "name_ed": "farm",
-          "level": "8"
-        },
-        "storage": {
-          "name_ed": "storage",
-          "level": "7"
-        },
-        "hide": {
-          "name_ed": "hide",
-          "level": "6"
-        },
-        "wall": {
-          "name_ed": "wall",
-          "level": "5"
-        }
+        "main": "12",
+        "barracks": "5",
+        "stable": "3",
+        "garage": "1",
+        "snob": "1",
+        "smith": "5",
+        "place": "1",
+        "statue": "1",
+        "market": "5",
+        "wood": "13",
+        "stone": "13",
+        "iron": "10",
+        "farm": "8",
+        "storage": "7",
+        "hide": "6",
+        "wall": "5"
       }
     },
     {
@@ -252,70 +108,22 @@
       "display_name": "Aldeia de War4",
       "user_id": 4,
       "buildings": {
-        "main": {
-          "name_ed": "main",
-          "level": "12"
-        },
-        "barracks": {
-          "name_ed": "barracks",
-          "level": "5"
-        },
-        "stable": {
-          "name_ed": "stable",
-          "level": "3"
-        },
-        "garage": {
-          "name_ed": "garage",
-          "level": "0"
-        },
-        "snob": {
-          "name_ed": "snob",
-          "level": "0"
-        },
-        "smith": {
-          "name_ed": "smith",
-          "level": "5"
-        },
-        "place": {
-          "name_ed": "place",
-          "level": "1"
-        },
-        "statue": {
-          "name_ed": "statue",
-          "level": "1"
-        },
-        "market": {
-          "name_ed": "market",
-          "level": "5"
-        },
-        "wood": {
-          "name_ed": "wood",
-          "level": "11"
-        },
-        "stone": {
-          "name_ed": "stone",
-          "level": "11"
-        },
-        "iron": {
-          "name_ed": "iron",
-          "level": "10"
-        },
-        "farm": {
-          "name_ed": "farm",
-          "level": "8"
-        },
-        "storage": {
-          "name_ed": "storage",
-          "level": "7"
-        },
-        "hide": {
-          "name_ed": "hide",
-          "level": "6"
-        },
-        "wall": {
-          "name_ed": "wall",
-          "level": "5"
-        }
+        "main": "12",
+        "barracks": "5",
+        "stable": "3",
+        "garage": "1",
+        "snob": "1",
+        "smith": "5",
+        "place": "1",
+        "statue": "1",
+        "market": "5",
+        "wood": "11",
+        "stone": "11",
+        "iron": "12",
+        "farm": "8",
+        "storage": "20",
+        "hide": "10",
+        "wall": "10"
       }
     }
   ]
