@@ -126,5 +126,20 @@
         "wall": "10"
       }
     }   
+  ],
+  "buildings": [
+    {
+      "village_id": 1,
+      [
+        {
+          "name_ed": "main",
+          "level": "12"
+        },
+        {
+          "name_ed": "barracks",
+          "level": "5"
+        }
+      ]
+    }
   ]
 }
