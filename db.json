@@ -54,7 +54,7 @@
         "wall": "5"
       },
       "units": {
-        "espadachim": {
+        {
           "display_name": "Espadachim",
           "characteristics": "O espadachim é uma unidade lenta mas eficaz na defesa, especialmente contra a infantaria.",
           "qtde": 2,
@@ -65,7 +65,7 @@
             "defense_against_archers": 40 
           }
         },
-        "lanceiro": {
+        {
           "display_name": "Lanceiro",
           "characteristics": "O lanceiro é a unidade mais simples. Ele é eficiente na defesa contra cavalaria e para saquear aldeias.",
           "qtde": 10,
@@ -102,7 +102,7 @@
         "wall": "5"
       },
       "units": {
-        "espadachim": {
+        {
           "display_name": "Espadachim",
           "characteristics": "O espadachim é uma unidade lenta mas eficaz na defesa, especialmente contra a infantaria.",
           "qtde": 20,
@@ -113,7 +113,7 @@
             "defense_against_archers": 40 
           }
         },
-        "lanceiro": {
+        {
           "display_name": "Lanceiro",
           "characteristics": "O lanceiro é a unidade mais simples. Ele é eficiente na defesa contra cavalaria e para saquear aldeias.",
           "qtde": 100,
