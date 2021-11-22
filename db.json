@@ -76,6 +76,17 @@
               "defense_against_cavalry": 45,
               "defense_against_archers": 20 
             }
+          },
+          {
+            "display_name": "Bárbaro",
+            "characteristics": "O bárbaro é uma forte unidade de ataque, porém quase inútil na defesa.",
+            "qtde": 30,
+            "war_statistics": {
+              "offensive_force": 40,
+              "general_defense": 10,
+              "defense_against_cavalry": 5,
+              "defense_against_archers": 10 
+            }
           }
         ]
       }
