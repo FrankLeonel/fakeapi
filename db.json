@@ -29,7 +29,7 @@
       "password": "chico123"
     }
   ],
-  "villages": {
+  "villages": [
     {
       "id": 1,
       "name": "Aldeia de War",
