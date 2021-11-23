@@ -137,6 +137,28 @@
               "defense_against_cavalry": 45,
               "defense_against_archers": 20 
             }
+          },
+          {
+            "display_name": "Bárbaro",
+            "characteristics": "O bárbaro é uma forte unidade de ataque, porém quase inútil na defesa.",
+            "qtde": 60,
+            "war_statistics": {
+              "offensive_force": 40,
+              "general_defense": 10,
+              "defense_against_cavalry": 5,
+              "defense_against_archers": 10 
+            }
+          },
+          {
+            "display_name": "Explorador",
+            "characteristics": "O explorador se infiltra em aldeias inimigas afim de obter informações importantes sobre as mesmas.",
+            "qtde": 0,
+            "war_statistics": {
+              "offensive_force": 0,
+              "general_defense": 2,
+              "defense_against_cavalry": 1,
+              "defense_against_archers": 1 
+            }
           }
         ]
       }
