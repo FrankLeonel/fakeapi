@@ -36,70 +36,22 @@
       "display_name": "Aldeia de War",
       "user_id": 1,
       "buildings": [
-        {
-          "name": "Edifício Principal",
-          "level": 12
-        },
-        {
-          "name": "Quartel",
-          "level": 5
-        },
-        {
-          "name": "Estábulo",
-          "level": 3
-        },
-        {
-          "name": "Oficina",
-          "level": 0
-        },
-        {
-          "name": "Academia",
-          "level": 0
-        },
-        {
-          "name": "Ferreiro",
-          "level": 5
-        },
-        {
-          "name": "Praça de reunião",
-          "level": 1
-        },
-        {
-          "name": "Estátua",
-          "level": 1
-        },
-        {
-          "name": "Mercado",
-          "level": 5
-        },
-        {
-          "name": "Bosque",
-          "level": 11
-        },
-        {
-          "name": "Poço de argila",
-          "level": 11
-        },
-        {
-          "name": "Mina de ferro",
-          "level": 10
-        },
-        {
-          "name": "Fazenda",
-          "level": 8
-        },
-        {
-          "name": "Armazém",
-          "level": 7
-        },
-        {
-          "name": "Esconderijo",
-          "level": 6
-        },
-        {
-          "name": "Muralha",
-          "level": 5
-        }
+        {"name": "Edifício Principal", "level": 12},
+        {"name": "Quartel", "level": 5},
+        {"name": "Estábulo", "level": 3},
+        {"name": "Oficina", "level": 0},
+        {"name": "Academia", "level": 0},
+        {"name": "Ferreiro", "level": 5},
+        {"name": "Praça de reunião", "level": 1},
+        {"name": "Estátua", "level": 1},
+        {"name": "Mercado", "level": 5},
+        {"name": "Bosque", "level": 11},
+        {"name": "Poço de argila", "level": 11},
+        {"name": "Mina de ferro", "level": 10},
+        {"name": "Fazenda", "level": 8},
+        {"name": "Armazém", "level": 7},
+        {"name": "Esconderijo", "level": 6},
+        {"name": "Muralha", "level": 5}
       ],
       "units": {
         "soldiers": [
@@ -145,70 +97,22 @@
       "display_name": "Aldeia de War2",
       "user_id": 2,
       "buildings": [
-        {
-          "name": "Edifício Principal",
-          "level": 12
-        },
-        {
-          "name": "Quartel",
-          "level": 5
-        },
-        {
-          "name": "Estábulo",
-          "level": 3
-        },
-        {
-          "name": "Oficina",
-          "level": 1
-        },
-        {
-          "name": "Academia",
-          "level": 1
-        },
-        {
-          "name": "Ferreiro",
-          "level": 5
-        },
-        {
-          "name": "Praça de reunião",
-          "level": 1
-        },
-        {
-          "name": "Estátua",
-          "level": 1
-        },
-        {
-          "name": "Mercado",
-          "level": 5
-        },
-        {
-          "name": "Bosque",
-          "level": 11
-        },
-        {
-          "name": "Poço de argila",
-          "level": 11
-        },
-        {
-          "name": "Mina de ferro",
-          "level": 10
-        },
-        {
-          "name": "Fazenda",
-          "level": 8
-        },
-        {
-          "name": "Armazém",
-          "level": 7
-        },
-        {
-          "name": "Esconderijo",
-          "level": 6
-        },
-        {
-          "name": "Muralha",
-          "level": 5
-        }
+        {"name": "Edifício Principal", "level": 12},
+        {"name": "Quartel", "level": 5},
+        {"name": "Estábulo", "level": 3},
+        {"name": "Oficina", "level": 1},
+        {"name": "Academia", "level": 1},
+        {"name": "Ferreiro", "level": 5},
+        {"name": "Praça de reunião", "level": 1},
+        {"name": "Estátua", "level": 1},
+        {"name": "Mercado", "level": 5},
+        {"name": "Bosque", "level": 11},
+        {"name": "Poço de argila", "level": 11},
+        {"name": "Mina de ferro", "level": 10},
+        {"name": "Fazenda", "level": 8},
+        {"name": "Armazém", "level": 7},
+        {"name": "Esconderijo", "level": 6},
+        {"name": "Muralha", "level": 5}
       ],
       "units": {
         "soldiers": [
@@ -265,70 +169,22 @@
       "display_name": "Aldeia de War3",
       "user_id": 3,
       "buildings": [
-        {
-          "name": "Edifício Principal",
-          "level": 12
-        },
-        {
-          "name": "Quartel",
-          "level": 5
-        },
-        {
-          "name": "Estábulo",
-          "level": 3
-        },
-        {
-          "name": "Oficina",
-          "level": 0
-        },
-        {
-          "name": "Academia",
-          "level": 0
-        },
-        {
-          "name": "Ferreiro",
-          "level": 5
-        },
-        {
-          "name": "Praça de reunião",
-          "level": 1
-        },
-        {
-          "name": "Estátua",
-          "level": 1
-        },
-        {
-          "name": "Mercado",
-          "level": 5
-        },
-        {
-          "name": "Bosque",
-          "level": 11
-        },
-        {
-          "name": "Poço de argila",
-          "level": 11
-        },
-        {
-          "name": "Mina de ferro",
-          "level": 10
-        },
-        {
-          "name": "Fazenda",
-          "level": 8
-        },
-        {
-          "name": "Armazém",
-          "level": 7
-        },
-        {
-          "name": "Esconderijo",
-          "level": 12
-        },
-        {
-          "name": "Muralha",
-          "level": 12
-        }
+        {"name": "Edifício Principal", "level": 12},
+        {"name": "Quartel", "level": 5},
+        {"name": "Estábulo", "level": 3},
+        {"name": "Oficina", "level": 0},
+        {"name": "Academia", "level": 1},
+        {"name": "Ferreiro", "level": 5},
+        {"name": "Praça de reunião", "level": 1},
+        {"name": "Estátua", "level": 1},
+        {"name": "Mercado", "level": 5},
+        {"name": "Bosque", "level": 11},
+        {"name": "Poço de argila", "level": 11},
+        {"name": "Mina de ferro", "level": 10},
+        {"name": "Fazenda", "level": 8},
+        {"name": "Armazém", "level": 7},
+        {"name": "Esconderijo", "level": 12},
+        {"name": "Muralha", "level": 12}
       ],
       "units": {
         "soldiers": [
@@ -363,70 +219,22 @@
       "display_name": "Aldeia de War4",
       "user_id": 4,
       "buildings": [
-        {
-          "name": "Edifício Principal",
-          "level": 12
-        },
-        {
-          "name": "Quartel",
-          "level": 5
-        },
-        {
-          "name": "Estábulo",
-          "level": 6
-        },
-        {
-          "name": "Oficina",
-          "level": 3
-        },
-        {
-          "name": "Academia",
-          "level": 0
-        },
-        {
-          "name": "Ferreiro",
-          "level": 5
-        },
-        {
-          "name": "Praça de reunião",
-          "level": 1
-        },
-        {
-          "name": "Estátua",
-          "level": 1
-        },
-        {
-          "name": "Mercado",
-          "level": 5
-        },
-        {
-          "name": "Bosque",
-          "level": 11
-        },
-        {
-          "name": "Poço de argila",
-          "level": 11
-        },
-        {
-          "name": "Mina de ferro",
-          "level": 10
-        },
-        {
-          "name": "Fazenda",
-          "level": 8
-        },
-        {
-          "name": "Armazém",
-          "level": 7
-        },
-        {
-          "name": "Esconderijo",
-          "level": 6
-        },
-        {
-          "name": "Muralha",
-          "level": 5
-        }
+        {"name": "Edifício Principal", "level": 12},
+        {"name": "Quartel", "level": 5},
+        {"name": "Estábulo", "level": 3},
+        {"name": "Oficina", "level": 4},
+        {"name": "Academia", "level": 0},
+        {"name": "Ferreiro", "level": 5},
+        {"name": "Praça de reunião", "level": 1},
+        {"name": "Estátua", "level": 1},
+        {"name": "Mercado", "level": 5},
+        {"name": "Bosque", "level": 11},
+        {"name": "Poço de argila", "level": 11},
+        {"name": "Mina de ferro", "level": 10},
+        {"name": "Fazenda", "level": 8},
+        {"name": "Armazém", "level": 12},
+        {"name": "Esconderijo", "level": 6},
+        {"name": "Muralha", "level": 5}
       ],
       "units": {
         "soldiers": [
