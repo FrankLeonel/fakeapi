@@ -35,24 +35,72 @@
       "name": "Aldeia de War",
       "display_name": "Aldeia de War",
       "user_id": 1,
-      "buildings": {
-        "main": "12",
-        "barracks": "5",
-        "stable": "3",
-        "garage": "0",
-        "snob": "0",
-        "smith": "5",
-        "place": "1",
-        "statue": "1",
-        "market": "5",
-        "wood": "11",
-        "stone": "11",
-        "iron": "10",
-        "farm": "8",
-        "storage": "7",
-        "hide": "6",
-        "wall": "5"
-      },
+      "buildings": [
+        {
+          "name": "main",
+          "level": 12
+        },
+        {
+          "name": "barracks",
+          "level": 5
+        },
+        {
+          "name": "stable",
+          "level": 3
+        },
+        {
+          "name": "garage",
+          "level": 0
+        },
+        {
+          "name": "snob",
+          "level": 0
+        },
+        {
+          "name": "smith",
+          "level": 5
+        },
+        {
+          "name": "place",
+          "level": 1
+        },
+        {
+          "name": "statue",
+          "level": 1
+        },
+        {
+          "name": "market",
+          "level": 5
+        },
+        {
+          "name": "wood",
+          "level": 11
+        },
+        {
+          "name": "stone",
+          "level": 11
+        },
+        {
+          "name": "iron",
+          "level": 10
+        },
+        {
+          "name": "farm",
+          "level": 8
+        },
+        {
+          "name": "storage",
+          "level": 7
+        },
+        {
+          "name": "hide",
+          "level": 6
+        },
+        {
+          "name": "wall",
+          "level": 5
+        }
+      ],
       "units": {
         "soldiers": [
           {
